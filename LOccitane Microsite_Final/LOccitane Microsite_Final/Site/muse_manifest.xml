@@ -1,0 +1,154 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="loveloccitane.com" resolutions="1x" timestamp="1571545179472">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3791925500" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form-u1053.php" crc="333045083" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+    <file name="form-u468.php" crc="411311820" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="offwhite bg.jpg" crc="4105755014" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bubble.png" crc="4045893960" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loccitane logo 100px.png" crc="3999671170" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flower 1-u915-fr.png" crc="393259310" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="u907.png" crc="4166853408" ref="phone>index"/>
+    <file name="u907-r.png" crc="3968979532" ref="phone>index"/>
+    <file name="tree-u930-fr.png" crc="185426013" ref="phone>index"/>
+    <file name="stars.png" crc="110735144" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_flower_2.png" crc="186115757" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gift open-u1163-fr.png" crc="466156114" ref="phone>index"/>
+    <file name="elements mobile.png" crc="373422931" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bike-u971-fr.png" crc="17783620" ref="phone>index"/>
+    <file name="u1547-4.png" crc="3803712360" ref="phone>index"/>
+    <file name="u1548-6.png" crc="3909586741" ref="phone>index"/>
+    <file name="grass-u1549-fr.png" crc="4177000316" ref="phone>index"/>
+    <file name="plant 3.png" crc="3852610348" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plant 1.png" crc="3960254919" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plant 2.png" crc="3814459235" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gift 2 mobile.png" crc="3787532952" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_flower_1-u1035-fr.png" crc="4120768998" ref="phone>index"/>
+    <file name="tree_half.png" crc="3904033884" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gift_sign up-u1049-fr.png" crc="3937740272" ref="phone>index"/>
+    <file name="u1050-4.png" crc="4267673610" ref="phone>index"/>
+    <file name="u919-4.png" crc="3840959861" ref="phone>index"/>
+    <file name="u918-6.png" crc="3949778073" ref="phone>index"/>
+    <file name="u920-4.png" crc="4146637461" ref="phone>index"/>
+    <file name="sprout 2.png" crc="3968439828" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u940-12.png" crc="80981571" ref="phone>index"/>
+    <file name="u941-4.png" crc="3861954329" ref="phone>index"/>
+    <file name="u963-6.png" crc="97489861" ref="phone>index"/>
+    <file name="gift 1.png" crc="103690902" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="small gift 2.png" crc="4095014180" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="small gift 4.png" crc="3769163509" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="small gift 3.png" crc="384514153" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sprout.png" crc="3889793345" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bike-u1552-fr.png" crc="4039663673" ref="phone>index"/>
+    <file name="u1038-4.png" crc="4194181745" ref="phone>index"/>
+    <file name="loccitane logo 200px.png" crc="43683226" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flower 1.png" crc="192763038" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u609_states.png" crc="1364515" ref="index"/>
+    <file name="u609_states-r.png" crc="3823183951" ref="index"/>
+    <file name="grass.png" crc="419449762" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1465-6.png" crc="4290553508" ref="index"/>
+    <file name="plant 4.png" crc="214528634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1464-4.png" crc="4209230101" ref="index"/>
+    <file name="gift open.png" crc="3926969392" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gift 2.png" crc="453081301" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_flower_1.png" crc="486230494" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tree.png" crc="98228874" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gift_sign up.png" crc="516330679" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u497-4.png" crc="3914876637" ref="index"/>
+    <file name="u241-6.png" crc="164102069" ref="index"/>
+    <file name="u248-4.png" crc="127223081" ref="index"/>
+    <file name="u245-4.png" crc="358137557" ref="index"/>
+    <file name="u295-14.png" crc="4221905864" ref="index"/>
+    <file name="u299-4.png" crc="177478442" ref="index"/>
+    <file name="u316-10.png" crc="386645909" ref="index"/>
+    <file name="bike.png" crc="4017052688" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u400-4.png" crc="397024985" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3941839142" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3806764115" seo="true" mt="1571545105888" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3990890194" seo="true" mt="1571545126596" redirect="true"/>
+</manifest>
